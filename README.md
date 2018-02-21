@@ -15,6 +15,10 @@
 * [You can sign up over here 🗞](http://eepurl.com/bSQZ89)
 * [You can read more about it over here](https://github.com/vsouza/awesome-ios/issues/1263)
 
+## We've launched our Newsletter!! ✅🚀📰
+* [You can sign up over here 🗞](http://eepurl.com/bSQZ89)
+* [You can read more about it over here](https://github.com/vsouza/awesome-ios/issues/1263)
+
 # About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
